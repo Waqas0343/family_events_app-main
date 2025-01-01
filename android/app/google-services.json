@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1023835792702",
+    "firebase_url": "https://family-event-management-default-rtdb.firebaseio.com",
+    "project_id": "family-event-management",
+    "storage_bucket": "family-event-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023835792702:android:080dc975c764527feb786f",
+        "android_client_info": {
+          "package_name": "com.example.family_events_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-M0DWBS5fbhFbuwG5L2MJeI_jGAKkIic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
